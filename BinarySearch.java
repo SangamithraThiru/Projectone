@@ -11,7 +11,7 @@ class BinarySearch
     n = in.nextInt(); 
     array = new int[n];
  
-    System.out.println("Enter " + n + " integers");
+    System.out.println("Enter the " + n + " integers here");
  
  
     for (c = 0; c < n; c++)
